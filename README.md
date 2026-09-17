@@ -18,14 +18,14 @@ Welcome to my GitHub! I'm a passionate game developer specializing in **Unity 3D
 
 ## 🎯 My Published Games
 
-### **[Anime Sliding Puzzle]**
+### **Anime Sliding Puzzle**
 A timed, multi-level sliding puzzle game with anime-themed visuals and progressive difficulty scaling.
 - ⏱️ **Timer Systems** & **Level Progression** mechanics
 - 🎨 Themed graphics and sound design
 - 📱 Intuitive touch controls with responsive UI feedback
 - 🎮 Play it now: [itch.io/Anime Sliding Puzzle](https://sreejith-hariharan.itch.io/sreejith-puzzle-verse)
 
-### **[Brain Challenge]**
+### **Brain Challenge**
 A number-finding puzzle game where players locate numbers in correct sequence.
 - 🧩 Challenging puzzle mechanics with difficulty progression
 - 📊 Score calculation systems
