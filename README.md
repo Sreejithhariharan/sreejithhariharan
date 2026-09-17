@@ -53,7 +53,7 @@ A number-finding puzzle game where players locate numbers in correct sequence.
 - Unity Editor | Itch.io Publishing
 
 **Languages**
-- English (Fluent) | Malayalam (Native)
+- English | Malayalam | Hindi 
 
 ---
 
@@ -92,7 +92,7 @@ A number-finding puzzle game where players locate numbers in correct sequence.
 ## 📱 Connect With Me
 
 - 🐙 **GitHub:** https://github.com/sreejithhariharan
-- 🎮 **Itch.io:** (https://sreejith-hariharan.itch.io/)
+- 🎮 **Itch.io:** https://sreejith-hariharan.itch.io/
 - 📧 **Email:** sreejithhari9@gmail.com
 - 📞 **Phone:** +91 7736308911
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/sreejith-hariharan-35a331283/)]
